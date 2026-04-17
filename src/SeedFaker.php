@@ -279,10 +279,10 @@ class SeedFaker
     // Empty array = dev (running from source). Populated = production (verify mandatory).
     private const NATIVE_CHECKSUMS = [
         // @checksums-start
-        'darwin-arm64' => '206857febe87f5c32e86812dd0cdc3bc34c2518b573f896ee746b03cc7f4df1c',
-        'darwin-x86_64' => '536b45d5897a2e614e1a29ffebf512072080e4c69bd2f631e72ada9a36270d1d',
-        'linux-arm64' => '392859dd2f641c0d6e11ba0da4393388247e9a6313d06bc4df262303f3aeb447',
-        'linux-x86_64' => '7cd4218a73b046a9053b23f6a99131394b4834d1d11ce531d2cdcb3030665c9a',
+        'darwin-arm64' => '784b1f4402cb248cddf1d20637b13708174d7665594cf55268e950f42f1360af',
+        'darwin-x86_64' => '48ec0a165b99d18895a50308beeacfdd19d00e052dbca482ba894832e79ae2af',
+        'linux-arm64' => '3b72f295dee6e40b066ef85f83a6191127d206aa5fc3aa7cd21927ccb78b95f6',
+        'linux-x86_64' => 'a3ee46a89fac3ec495c52a2dc2b39057d404fe9787e4dc4316479b2736779dc5',
         // @checksums-end
     ];
 
